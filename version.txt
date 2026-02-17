@@ -1,1 +1,1 @@
-2.0.0.0|https://github.com/Din2312/Roblox-Diskless-Launcher/raw/master/Roblox%20Diskless%20Launcher.exe
+2.1.0.0|https://github.com/Din2312/Roblox-Diskless-Launcher/raw/master/Roblox%20Diskless%20Launcher.exe
