@@ -1,1 +1,1 @@
-2.1.0.0|https://github.com/Din2312/Roblox-Diskless-Launcher/releases/download/v2.1.0/Roblox_Elite_Launcher_v2_1.exe
+2.2.0.0|https://github.com/Din2312/Roblox-Diskless-Launcher/releases/download/v2.2.0/Roblox_Elite_Launcher_v2_2.exe
